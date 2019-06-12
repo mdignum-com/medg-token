@@ -1,7 +1,7 @@
 {
   "name": "medg-token",
   "version": "1.0.0",
-  "description": "MEDG Token Contract",
+  "description": "## Installation",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -17,6 +17,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "openzeppelin-solidity": "2.2.0"
+    "openzeppelin-solidity": "2.3.0"
   }
 }
