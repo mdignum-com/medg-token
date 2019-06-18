@@ -88,4 +88,33 @@ Summary
 =======
 > Total deployments:   1
 > Final cost:          0.0002875323 ETH
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'MEDGToken'
+   ---------------------
+   > transaction hash:    0x29bed63502cf35f36d8fe85ea3adc1f3f4a7620bdb6e71d778ad59d5a8cf3aae
+   > Blocks: 21           Seconds: 257
+   > contract address:    0xdD91f0C8946b21409Ad0FF526AC80e71D272234c
+   > block number:        7984089
+   > block timestamp:     1560884702
+   > account:             0xC38aF509182cC85d6EEC75E723ee02b5b99515ba
+   > balance:             0.1037573067
+   > gas used:            2644487
+   > gas price:           1.1 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0029089357 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:        0.0029089357 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.0029089357 ETH
 ```
